@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Мальцев](https://up.htmlacademy.ru/nodejs/3/user/1130179).
-* Наставник: `Неизвестно`.
+* Наставник: [Бодя Цап](https://htmlacademy.ru/profile/id1406771).
 
 ---
 
